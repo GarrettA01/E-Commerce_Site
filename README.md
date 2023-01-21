@@ -1,20 +1,20 @@
 # E-Commerce_Site
 
-#### Table of Contents:
+## Table of Contents:
 
-#### [Description](#description)
+- [Description](#description)
 
-#### [Installation](#installation)
+- [Installation](#installation)
 
-#### [Usage](#usage)
+- [Usage](#usage)
 
-#### [Credits](#credits)
+- [Credits](#credits)
 
-#### [Tests](#tests)
+- [Tests](#tests)
 
-#### [Contact](#contact)
+- [Contact](#contact)
 
-#### [Video Walkthrough](#video-walkthrough)
+- [Video Walkthrough](#video-walkthrough)
 
 ## Description
 
